@@ -6,7 +6,7 @@
 
 <br>
 
-![Coding Animation](https://tenor.com/d4EMEEY92cZ.gif)
+![Coding Animation](https://media.tenor.com/bQAN1b8Z2dYAAAAC/coding-code.gif)
 
 <br><br>
 
