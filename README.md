@@ -7,7 +7,7 @@
 <br>
 
 
-<img src="https://tenor.com/pt-BR/view/jinx-cat-huh-confused-meme-gif-3282660700962977407" width="150" alt="Gatinho dev"/>
+<img src="https://tenor.com/pt-BR/view/jinx-cat-huh-confused-meme-gif-3282660700962977407" width="150" alt="Black cat tech gif" />
 
 <br><br>
 
