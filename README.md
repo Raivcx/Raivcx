@@ -7,7 +7,7 @@
 <br>
 
 
-<img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="150" alt="Gatinho dev"/>
+<img src="https://tenor.com/d4EMEEY92cZ.gif" width="150" alt="Gatinho dev"/>
 
 <br><br>
 
