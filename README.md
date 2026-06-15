@@ -2,11 +2,11 @@
 
 <h3><code>> Hello, World! I'm Raí.</code></h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Engenharia+da+Computação;Desenvolvedor+Full-Stack;Inteligência+Artificial+%26+Cloud;Python,+React,+TypeScript)](https://github.com/Raivcx)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Engenharia+da+Computação;Desenvolvedor;Inteligência+Artificial+%26+Cloud;Python,+React,+TypeScript)](https://github.com/Raivcx)
 
 <br>
 
-![Coding Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5aDhjYW1sYXgxdThsZWt6N3IzcHV1MWx4eHV3bWFweHBwaTNyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggCGvnP2Q7b23A/giphy.gif)
+![Coding Animation](https://tenor.com/d4EMEEY92cZ.gif)
 
 <br><br>
 
