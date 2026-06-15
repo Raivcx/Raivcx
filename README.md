@@ -1,35 +1,53 @@
 <div align="center">
 
-<p>コンピュータ工学</p>
-<p>Olá, meu nome é Raí!</p>
+<h3><code>> Hello, World! I'm Raí.</code></h3>
 
-<!-- Substitua SEU_USUARIO_GITHUB pelo seu usuário real do GitHub -->
-<img src="https://komarev.com/ghpvc/?username=Raivcx&label=visits&color=blue&style=flat" alt="visits" />
+<a href="https://github.com/Raivcx">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Engenharia+da+Computação;Desenvolvedor+Full-Stack;Inteligência+Artificial+%26+Cloud;Python,+React,+TypeScript" alt="Typing SVG" />
+</a>
+
+<br>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5aDhjYW1sYXgxdThsZWt6N3IzcHV1MWx4eHV3bWFweHBwaTNyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggCGvnP2Q7b23A/giphy.gif" width="180" alt="Coding Animation" />
 
 <br><br>
 
-<!-- GIF do gatinho (você pode trocar a URL por outro GIF se quiser) -->
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZtbDhja3hqNzl5ZHRobTB6dTJuNTBpNXVjdHVkdXRzcHN0bzA5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bbd5J9cG0MrdgXijnS/giphy.gif" width="150" alt="Gatinho fofo" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_GITHUB&label=Profile%20Views&color=0ea5e9&style=flat-square" alt="Visitas" />
+</p>
 
-<br><br>
+<hr style="width: 60%; border: 1px solid #1e293b;">
 
-<code>zZzZzZZ</code>
+<h3>🛠️ Tech Stack & Tools</h3>
 
-<h3 style="color: #b24bc1;">Be welcome ❤️</h3>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+</p>
 
 <br>
 
 <details>
-  <summary><b>▶️ More Info</b></summary>
+  <summary><b>📂 Terminal Log: about_me.sh</b></summary>
   <br>
   <div align="left">
-    <p>🎓 Estudante de <b>Engenharia da Computação</b></p>
-    <p>💻 Desenvolvedor focado em <b>Python, React, TypeScript e Tailwind CSS</b></p>
-    <p>🤖 Entusiasta em <b>Inteligência Artificial, LLMs e Azure AI</b></p>
-    <p>🛠️ Atualmente desenvolvendo o <b>Day List Today</b></p>
-    <p>🐈 Pai de uma gatinha!</p>
-    <p>🎮 Nas horas vagas, você me encontra no LoL, no Minecraft ou ouvindo um Rock/Metal.</p>
+    <p><b>> [Status]:</b> Focado em construir soluções eficientes, interfaces responsivas e arquiteturas em nuvem.</p>
+    <p><b>> [Education]:</b> Graduando em <b>Engenharia da Computação</b>.</p>
+    <p><b>> [Current_Quest]:</b> Desenvolvendo a plataforma <b>Day List Today</b> e me aprofundando no ecossistema de I.A. da Microsoft.</p>
+    <p><b>> [Background]:</b> Sólida experiência em suporte técnico avançado (N2) e <i>troubleshooting</i> complexo, focado em análise de causa raiz.</p>
+    <p><b>> [Off_Duty]:</b> League of Legends, Minecraft, Rock/Metal e pausas obrigatórias para dar atenção à minha gata.</p>
   </div>
 </details>
+
+<br>
+
+<h3>📊 GitHub Stats</h3>
+
+<a href="https://github.com/Raivcx">
+  <img src="https://github-readme-stats.vercel.app/api?username=Raivcx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+</a>
 
 </div>
