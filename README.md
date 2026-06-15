@@ -6,8 +6,8 @@
 
 <br>
 
-![Coding Animation](./coding.gif)
 
+<img src="https://tenor.com/d4EMEEY92cZ.gif" width="150" alt="Gatinho dev" />
 
 <br><br>
 
