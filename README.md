@@ -4,16 +4,16 @@
 <p>Olá, meu nome é Raí!</p>
 
 <!-- Substitua SEU_USUARIO_GITHUB pelo seu usuário real do GitHub -->
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_GITHUB&label=visits&color=blue&style=flat" alt="visits" />
+<img src="https://komarev.com/ghpvc/?username=Raivcx&label=visits&color=blue&style=flat" alt="visits" />
 
 <br><br>
 
 <!-- GIF do gatinho (você pode trocar a URL por outro GIF se quiser) -->
-<img src="https://media.tenor.com/tHqgU6r8Q2AAAAAi/cat-cute.gif" width="150" alt="Gatinho fofo" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZtbDhja3hqNzl5ZHRobTB6dTJuNTBpNXVjdHVkdXRzcHN0bzA5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bbd5J9cG0MrdgXijnS/giphy.gif" width="150" alt="Gatinho fofo" />
 
 <br><br>
 
-<code>meow ♡</code>
+<code>zZzZzZZ</code>
 
 <h3 style="color: #b24bc1;">Be welcome ❤️</h3>
 
