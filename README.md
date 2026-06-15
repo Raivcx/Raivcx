@@ -2,28 +2,20 @@
 
 <h3><code>> Hello, World! I'm Raí.</code></h3>
 
-<!-- Typing SVG Animado - Corrigido para Raivcx -->
-<a href="https://github.com/Raivcx">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Engenharia+da+Computação;Desenvolvedor+Full-Stack;Inteligência+Artificial+%26+Cloud;Python,+React,+TypeScript" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Engenharia+da+Computação;Desenvolvedor+Full-Stack;Inteligência+Artificial+%26+Cloud;Python,+React,+TypeScript)](https://github.com/Raivcx)
 
 <br>
 
-<!-- GIF Tech/Code (esse GIF roda sozinho) -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5aDhjYW1sYXgxdThsZWt6N3IzcHV1MWx4eHV3bWFweHBwaTNyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggCGvnP2Q7b23A/giphy.gif" width="180" alt="Coding Animation" />
+![Coding Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5aDhjYW1sYXgxdThsZWt6N3IzcHV1MWx4eHV3bWFweHBwaTNyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggCGvnP2Q7b23A/giphy.gif)
 
 <br><br>
 
-<!-- Contador de Visitas - Corrigido para Raivcx -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Raivcx&label=Profile%20Views&color=0ea5e9&style=flat-square" alt="Visitas" />
-</p>
+![Visitas](https://komarev.com/ghpvc/?username=Raivcx&label=Profile%20Views&color=0ea5e9&style=flat-square)
 
 <hr style="width: 60%; border: 1px solid #1e293b;">
 
 <h3>🛠️ Tech Stack & Tools</h3>
 
-<!-- Badges (estas já estavam funcionando) -->
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -50,9 +42,6 @@
 
 <h3>📊 GitHub Stats</h3>
 
-<!-- Card de Estatísticas - Corrigido para Raivcx -->
-<a href="https://github.com/Raivcx">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raivcx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-</a>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raivcx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Raivcx)
 
 </div>
