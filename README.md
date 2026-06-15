@@ -7,7 +7,7 @@
 <br>
 
 
-<img src="./assets/jinx-cat-huh" width="150" alt="Black cat tech gif" />
+<img src="./assets/jinx-cat-huh.gif" width="150" alt="Black cat tech gif" />
 
 <br><br>
 
