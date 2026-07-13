@@ -33,7 +33,6 @@
   <div align="left">
     <p><b>> [Status]:</b> Focado em construir soluções eficientes, interfaces responsivas e arquiteturas em nuvem.</p>
     <p><b>> [Education]:</b> Graduando em <b>Engenharia da Computação</b>.</p>
-    <p><b>> [Current_Quest]:</b> Desenvolvendo a plataforma <b>Day List Today</b> e me aprofundando no ecossistema de I.A. da Microsoft.</p>
     <p><b>> [Background]:</b> Sólida experiência em suporte técnico avançado (N2) e <i>troubleshooting</i> complexo, focado em análise de causa raiz.</p>
     <p><b>> [Off_Duty]:</b> League of Legends, Minecraft, Rock/Metal e pausas obrigatórias para dar atenção à minha gata.</p>
   </div>
